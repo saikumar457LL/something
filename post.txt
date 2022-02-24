@@ -1,0 +1,1 @@
+post metod was used to send the data from user side to the server
